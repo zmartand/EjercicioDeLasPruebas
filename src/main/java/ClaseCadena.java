@@ -9,10 +9,6 @@ public class ClaseCadena {
         this.apellido = apellido;
     }
     public String DevuelveIniciales(){
-        Scanner sc = new Scanner(System.in);
-        //System.out.println("Ingrese su nombre y apellido: ");
-        //String nombre = sc.nextLine();
-        //String apellido = sc.nextLine();
         String[] nombreSeparado = nombre.split(" ");
         String[] apellidoSeparado = apellido.split(" ");
         String iniciales = "";
