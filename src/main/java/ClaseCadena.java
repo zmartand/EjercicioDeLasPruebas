@@ -1,10 +1,9 @@
 import java.util.Scanner;
-
-
 public class ClaseCadena {
     private String nombre;
     private String iniciales;
     private String apellido;
+
     public static String DevuelveIniciales(String nombre, String apellido) {
 
         if(nombre == null || nombre.isEmpty() || apellido == null || apellido.isEmpty()) {
