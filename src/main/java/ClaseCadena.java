@@ -37,7 +37,7 @@ public class ClaseCadena {
         iniciales = DevuelveIniciales(nombre, apellido);
 
         if(iniciales.isEmpty()) {
-            System.out.println("No se ingresó un nombre completo válido.");
+            System.out.println(" ");
         } else {
             System.out.println("Las iniciales de su nombre completo son: " + iniciales);
         }
