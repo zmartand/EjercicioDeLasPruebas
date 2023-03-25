@@ -1,6 +1,6 @@
 # EjercicioDeLasPruebas
 ## Nota:
-Mi repositorio es:
+Mi repositorio es: https://github.com/zmartand/EjercicioDeLasPruebas.git
 ## 1. Enunciado
  Debe escribir:
 Una clase ClaseCadena que contenga un método DevuelveIniciales que permita devolver las iniciales de los nombres y apellidos  
